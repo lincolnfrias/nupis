@@ -1,0 +1,6 @@
+pysal
+palettable
+numpy
+pandas
+matplotlib
+seaborn

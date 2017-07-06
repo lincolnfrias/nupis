@@ -1,0 +1,2 @@
+include nupis/README.rst
+recursive-include *.csv

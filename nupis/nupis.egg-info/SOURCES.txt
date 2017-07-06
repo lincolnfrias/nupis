@@ -1,0 +1,9 @@
+MANIFEST.in
+README.rst
+setup.py
+nupis/nupis.egg-info/PKG-INFO
+nupis/nupis.egg-info/SOURCES.txt
+nupis/nupis.egg-info/dependency_links.txt
+nupis/nupis.egg-info/not-zip-safe
+nupis/nupis.egg-info/requires.txt
+nupis/nupis.egg-info/top_level.txt
